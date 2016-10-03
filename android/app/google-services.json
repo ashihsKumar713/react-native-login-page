@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "126466378792",
+    "project_id": "login-3d17e"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126466378792:android:16a020af45de86ca",
+        "android_client_info": {
+          "package_name": "com.tethrlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126466378792-6i05ghg6fdqpn9a62u1t4pvpls67mq27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tethrlogin",
+            "certificate_hash": "B80CE153F6B0609FD3EE56A7F10F4049CAF0D67B"
+          }
+        },
+        {
+          "client_id": "126466378792-m3vpa46g1lt3ulkajrgtg6hqpd5988jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrycTPpslmSFWbR_8INfVDXymug4gb5L8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
